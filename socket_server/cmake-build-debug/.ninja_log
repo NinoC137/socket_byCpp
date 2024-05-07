@@ -1,0 +1,4 @@
+# ninja log v5
+1	222	1715092814198665165	CMakeFiles/socket_server.dir/main.cpp.o	aa94941a0181f66c
+0	228	1715092211572926818	CMakeFiles/socket_server.dir/source/TCPServer.cpp.o	9c22307dca73dcee
+222	271	1715092814246664715	socket_server	6422a85b52de2576

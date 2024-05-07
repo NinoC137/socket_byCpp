@@ -1,0 +1,10 @@
+# ninja log v5
+181	231	1715092636452369434	socket_client	1dadc4395d2dab4e
+0	179	1715092636400369945	CMakeFiles/socket_client.dir/main.cpp.o	dd46ad4f1ada3c74
+1	14	1715092819018620038	build.ninja	8217ed103102aeb6
+1	183	1715092617672554704	CMakeFiles/Cpp_socket.dir/main.cpp.o	fb26295527cbac7c
+1	181	1715092636400369945	CMakeFiles/socket_client.dir/source/TCPClient.cpp.o	9c2815df29d4e882
+1	179	1715092617668554743	CMakeFiles/Cpp_socket.dir/source/TCPClient.cpp.o	47a3c69d48941abf
+183	236	1715092617724554189	Cpp_socket	53185119fb4ba411
+0	186	1715092821530596539	CMakeFiles/socket_client.dir/main.cpp.o	dd46ad4f1ada3c74
+186	238	1715092821582596054	socket_client	1dadc4395d2dab4e
